@@ -1,0 +1,48 @@
+{
+    "accountInfo": {
+        "allLanguageObjects": [
+            {
+                "checkedByDefault": true,
+                "id": 22,
+                "isoValue": "ar",
+                "localizedName": "اللغة العربية",
+                "name": "Arabic"
+            },
+            {
+                "checkedByDefault": true,
+                "id": 2,
+                "isoValue": "en",
+                "localizedName": "اللغة الإنجليزية",
+                "name": "English"
+            }
+        ],
+        "allLanguages": [],
+        "connectedSocialId": null,
+        "countryId": 112,
+        "countryIso": "eg",
+        "createdAt": "2023-05-26T13:48:34",
+        "eligibleForTrial": false,
+        "email": "a41b2ef589@fireboxmail.lol",
+        "emailVerified": false,
+        "enthusiast": false,
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDc0MjU5NiIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg1NzYzMjcxLCJzZXhwIjoxNjg1NzYzNTcxLCJleHAiOjE2ODkyMTkyNzEsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDc0MjU5NiIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.Sp4kEM0CdvwnBMQVtvz2ND3t0a-KyGJfYHJun8zwqC4",
+        "lang": "ar",
+        "loginStatus": 5,
+        "loginStatusEnum": "PREMIUM",
+        "maximumNumberOfflineBooks": 100,
+        "paymentIssues": false,
+        "phoneNumber": "a41b2ef589@fireboxmail.lol",
+        "preview": false,
+        "refreshToken": null,
+        "singleSignToken": "Wqd0n8O7tHSSLCLaHglJyagLcDXvQ7ym",
+        "userId": 44742596
+    },
+    "customerCurrentLocation": "FR",
+    "customerId": 0,
+    "lang": null,
+    "message": "PREMIUM",
+    "optionalBooks": -1,
+    "premiumRealised": true,
+    "result": "success",
+    "serverDateMillis": 1685763271568
+}
